@@ -1,4 +1,4 @@
-module loadinfo
+module github.com/andy722/loadinfo
 
 go 1.21
 
